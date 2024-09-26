@@ -9,3 +9,4 @@ gpt4all
 faiss-cpu
 openai
 tiktoken
+chardet
