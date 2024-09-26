@@ -2,6 +2,7 @@ ctransformers
 transformers
 langchain
 langchain-community
+langchain_openai
 torch
 pypdf
 sentence-transformers
